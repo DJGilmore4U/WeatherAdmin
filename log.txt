@@ -1,0 +1,5 @@
+Name: Lauren, Location: San Diego, Date: 04-12-2018
+Name: Eric, Location: Oahu, Date: 04-12-2018
+Name: David, Location: lakeside, Date: 04-12-2018
+Name: DJ, Location: Austin, Date: 04-12-2018
+Name: Jennifer, Location: Poway CA, Date: 04-12-2018
